@@ -14,9 +14,7 @@ padding: 15px;
 .col-10 {width: 83.33%;}
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
-body{
-  background-color: #00ccff;
-}
+
 @media only screen and (min-width: 768px){
   body{
     background-color: purple;
