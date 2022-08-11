@@ -28,7 +28,7 @@ body{
 }
 #achtergrond {
   height: 700px;
-  background-image: url("images/oldsmerdiek.jpg");
+  background-image: url("oldsmerdiek.jpg");
   background-size: 100%;
 }
 .links{
